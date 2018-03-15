@@ -976,11 +976,7 @@ p {
 .ms-right-sidebar h5 {
     margin-bottom: 15px;
 }
-.ms-right-sidebar a {
-    display: block;
-    border-top: solid 1px rgba(103, 103, 103, .3);
-    padding: 15px 0;
-}
+
 .ms-right-sidebar a:hover .post-item__title,
 .ms-right-sidebar a:hover .post-item__title {
     color: #df1f29;
